@@ -1,0 +1,47 @@
+22:22:39.049 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+22:22:39.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:22:39.149 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:22:39.153 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:22:39.721 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:22:39.728 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:22:39.732 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:22:39.734 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:22:39.743 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+22:22:39.745 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+22:22:39.746 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+22:22:39.748 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+22:22:39.754 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+22:22:39.763 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+22:22:39.767 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+22:22:39.768 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+22:22:39.768 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+22:25:19.792 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:25:20.990 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:25:28.714 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+22:25:28.715 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+22:25:28.715 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+22:27:46.357 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:27:47.475 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:27:55.992 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+22:27:55.992 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+22:27:55.992 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+22:29:51.241 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+22:29:52.441 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+22:30:00.534 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+22:30:00.535 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+22:30:00.535 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+22:30:29.022 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+22:30:30.288 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+22:30:45.411 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation failed*******
+22:30:45.411 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+22:30:45.412 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+22:31:11.346 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+22:31:12.633 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+22:31:13.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:31:13.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:31:13.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:31:15.155 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+22:31:15.326 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+22:31:15.336 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+22:31:15.338 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+22:31:15.348 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'

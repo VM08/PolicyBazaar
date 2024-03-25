@@ -1,0 +1,48 @@
+09:38:20.892 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+09:38:20.923 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+09:38:20.927 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+09:38:20.930 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Health Insurance validation Completed*******
+09:38:20.930 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+09:38:20.931 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+10:30:42.628 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+10:30:43.753 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+10:30:50.993 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation failed*******
+10:30:50.993 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+10:30:50.993 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+10:31:14.900 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+10:31:20.620 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+10:31:20.705 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******method 1*******
+10:31:28.585 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+10:31:28.585 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+10:31:28.586 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+10:31:52.101 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+10:31:53.169 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Health Insurance Page*******
+10:31:53.860 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:31:53.867 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:31:53.870 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:31:55.684 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:31:55.923 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:31:55.933 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:31:55.934 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:31:55.942 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:31:55.943 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:31:55.944 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+10:31:55.945 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:31:55.949 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:31:56.038 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:31:56.043 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:31:56.046 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:31:56.047 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+10:31:56.050 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+10:31:56.051 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+10:31:56.052 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+10:31:56.055 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+10:31:56.059 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+10:31:56.065 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+10:31:56.230 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:31:56.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:31:56.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:31:56.662 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+10:31:56.666 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+10:31:56.670 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+10:31:56.671 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'

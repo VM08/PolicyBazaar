@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-25T14:52:00 IST" name="Suite" finished-at="2024-03-25T14:54:01 IST" duration-ms="120444">
+    <groups>
+      <group name="regression">
+        <method signature="Tc_3HealthInsuranceRunner.healthInsurance()[pri:3, instance:TestCase.Tc_3HealthInsuranceRunner@7c7a06ec]" name="healthInsurance" class="TestCase.Tc_3HealthInsuranceRunner"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="Tc_1TravelInsuranceRunner.travelInsurance()[pri:1, instance:TestCase.Tc_1TravelInsuranceRunner@28701274]" name="travelInsurance" class="TestCase.Tc_1TravelInsuranceRunner"/>
+        <method signature="Tc_3HealthInsuranceRunner.healthInsurance()[pri:3, instance:TestCase.Tc_3HealthInsuranceRunner@7c7a06ec]" name="healthInsurance" class="TestCase.Tc_3HealthInsuranceRunner"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="Tc_1TravelInsuranceRunner.travelInsurance()[pri:1, instance:TestCase.Tc_1TravelInsuranceRunner@28701274]" name="travelInsurance" class="TestCase.Tc_1TravelInsuranceRunner"/>
+        <method signature="Tc_3HealthInsuranceRunner.healthInsurance()[pri:3, instance:TestCase.Tc_3HealthInsuranceRunner@7c7a06ec]" name="healthInsurance" class="TestCase.Tc_3HealthInsuranceRunner"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-25T14:52:00 IST" name="Test" finished-at="2024-03-25T14:54:01 IST" duration-ms="120444">
+      <class name="TestCase.Tc_1TravelInsuranceRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCase.Tc_1TravelInsuranceRunner@28701274]" started-at="2024-03-25T14:52:01 IST" name="setup" finished-at="2024-03-25T14:52:18 IST" duration-ms="16444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="travelInsurance()[pri:1, instance:TestCase.Tc_1TravelInsuranceRunner@28701274]" started-at="2024-03-25T14:52:18 IST" name="travelInsurance" finished-at="2024-03-25T14:53:39 IST" duration-ms="81597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travelInsurance -->
+      </class> <!-- TestCase.Tc_1TravelInsuranceRunner -->
+      <class name="TestCase.Tc_3HealthInsuranceRunner">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:TestCase.Tc_3HealthInsuranceRunner@7c7a06ec]" started-at="2024-03-25T14:53:40 IST" name="setup" finished-at="2024-03-25T14:53:53 IST" duration-ms="13298" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="healthInsurance()[pri:3, instance:TestCase.Tc_3HealthInsuranceRunner@7c7a06ec]" started-at="2024-03-25T14:53:53 IST" name="healthInsurance" finished-at="2024-03-25T14:54:00 IST" duration-ms="7273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthInsurance -->
+      </class> <!-- TestCase.Tc_3HealthInsuranceRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

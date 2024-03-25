@@ -1,0 +1,46 @@
+17:26:25.075 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+17:26:25.092 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+17:30:49.113 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+17:30:50.635 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+17:31:30.148 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - Screenshot not taken for Travel Insurance.......
+17:31:38.724 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+17:31:38.725 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+17:31:38.726 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+17:32:06.257 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+17:32:08.037 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+17:32:21.670 [main] INFO  TestCase.Tc_2CarInsuranceRunner - Screenshot not taken for Travel Insurance.......
+17:32:21.738 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+17:32:21.739 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+17:32:21.739 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+17:32:50.553 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+17:32:52.850 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:32:52.859 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:32:52.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:32:54.957 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:32:54.963 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:32:54.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:32:55.912 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ****** Health Insurance validation failed*******
+17:32:55.912 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -          ===========================             
+17:32:55.913 [main] INFO  TestCase.Tc_3HealthInsuranceRunner -                                  
+17:36:06.273 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Homepage*******
+17:36:06.893 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ******Starting Travel Insurance Page*******
+17:36:42.950 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -               
+17:36:42.950 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - Screenshot Taken for Travel Insurance.......
+17:36:50.180 [main] INFO  TestCase.Tc_1TravelInsuranceRunner - ****** Travel Insurance validation Completed*******
+17:36:50.181 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -          ===========================             
+17:36:50.181 [main] INFO  TestCase.Tc_1TravelInsuranceRunner -                                  
+17:37:18.762 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Homepage*******
+17:37:19.445 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ******Starting Car Insurance Page*******
+17:37:31.373 [main] INFO  TestCase.Tc_2CarInsuranceRunner -               
+17:37:31.374 [main] INFO  TestCase.Tc_2CarInsuranceRunner - Screenshot Taken for Travel Insurance.......
+17:37:31.453 [main] INFO  TestCase.Tc_2CarInsuranceRunner - ****** Car Insurance validation Completed*******
+17:37:31.454 [main] INFO  TestCase.Tc_2CarInsuranceRunner -          ===========================             
+17:37:31.454 [main] INFO  TestCase.Tc_2CarInsuranceRunner -                                  
+17:38:04.955 [main] INFO  TestCase.Tc_3HealthInsuranceRunner - ******Starting Homepage*******
+17:38:07.268 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:38:07.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:38:07.285 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:38:09.583 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:38:09.882 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:38:09.914 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:38:09.916 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
